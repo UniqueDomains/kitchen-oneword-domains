@@ -79,7 +79,7 @@ print(df.head())
 | creator.kitchen | available | $14.99    | $84.99        | 70             | 45     | 7      | name.com                                                  |
 | now.kitchen     | resell    | —         | —             | 78             | 66     | 3      | GoDaddy.com, LLC                                          |
 | trade.kitchen   | premium   | $520      | $520          | 116            | 46     | 5      | namecheap                                                 |
-| pop.kitchen     | available | $14.99    | $84.99        | 82             | 43     | 3      | name.com                                                  |
+| pop.kitchen     | available | $14.99    | $84.99        | 82             | 44     | 3      | name.com                                                  |
 | fun.kitchen     | resell    | —         | —             | 122            | 62     | 3      | Porkbun LLC                                               |
 | auto.kitchen    | premium   | $520      | $520          | 68             | 45     | 4      | namecheap                                                 |
 | deep.kitchen    | available | $14.99    | $84.99        | 72             | 43     | 4      | name.com                                                  |
