@@ -685,6 +685,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3c8234b7-fae1-427c-8dfc-f933bee89bc7,snapped.kitchen,available,14.99,,52,6,7,name.com,,
 3c9fcd7c-c342-4773-8673-4c1368e9e151,punched.kitchen,available,14.99,,50,3,7,name.com,,
 3cb382d3-03ed-46be-b1eb-d32abd28c0c4,motorinn.kitchen,available,14.99,,74,1,9,name.com,,
+3cb8c084-b884-4436-8bc5-c8e8278f9f0f,koala.kitchen,premium,,,80,31,5,,,
 3cc03283-6215-4d6d-97ae-c2d55d0f19b7,vetoed.kitchen,available,14.99,,50,2,6,name.com,,
 3cd3a087-34fb-4133-a7be-a85cdad61e1e,slipped.kitchen,available,14.99,,70,3,7,name.com,,
 3cd65258-4889-4a66-9bed-2b0cda58c3b2,Ihavecancer.kitchen,available,83.98,,44,2,13,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5725bdd9-467d-4aec-a67a-35fb46894e94,treatof.kitchen,available,14.99,,72,1,8,name.com,,
 5731a3e6-a66f-4e24-96a9-e7f5b7f8ce66,estatetrustee.kitchen,available,14.99,,42,2,14,name.com,,
 57358c36-d8ce-43e6-9eaa-ac6c33431edd,leaveover.kitchen,available,14.99,,70,1,10,name.com,,
-575ad339-1717-4490-b68d-39309ec7046e,mattresses.kitchen,available,14.99,,56,8,10,name.com,,
