@@ -221,6 +221,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 13f12ee8-7c31-452b-bbc1-7b90914f77ea,pals.kitchen,available,14.99,,77,16,4,name.com,,
 13f555ff-f6ae-4918-a5b2-fd9cc70689a1,justthejob.kitchen,available,14.99,,56,3,12,name.com,,
 13fdc902-ed2b-44eb-8d9c-5c5c317806fb,setsup.kitchen,available,14.99,,54,1,7,name.com,,
+140e1d44-b7d9-4e7e-9c08-aa9a022299e7,compute.kitchen,available,14.99,,74,30,7,name.com,,
 140f6ea8-9735-4d83-b4fd-6c60f365d58e,slipby.kitchen,available,14.99,,64,1,7,name.com,,
 143cfa3c-4808-4999-9772-e724badeb8ab,makesomethingof.kitchen,available,14.99,,70,0,17,name.com,,
 144344fa-7cb0-4b4a-aecd-3fb964e271f6,settingup.kitchen,available,14.99,,54,1,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56ad3174-e5c9-44fd-a00d-c7d79770588f,continues.kitchen,available,14.99,,48,3,9,name.com,,
 5725bdd9-467d-4aec-a67a-35fb46894e94,treatof.kitchen,available,14.99,,72,1,8,name.com,,
 5731a3e6-a66f-4e24-96a9-e7f5b7f8ce66,estatetrustee.kitchen,available,14.99,,42,2,14,name.com,,
-57358c36-d8ce-43e6-9eaa-ac6c33431edd,leaveover.kitchen,available,14.99,,70,1,10,name.com,,
