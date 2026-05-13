@@ -752,6 +752,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 42d109c1-765f-41a7-9164-dfa903f9e291,believeitornot.kitchen,available,14.99,,54,3,17,name.com,,
 430edb73-4f7a-47e2-821c-829e4b762755,icons.kitchen,available,14.99,,68,19,5,name.com,,
 43386499-7d46-4ac7-8576-0d860be4c2d6,hightech.kitchen,available,14.99,,83,16,9,name.com,,
+4353d3e8-5567-4a85-ae75-1d81e36e8eba,organization.kitchen,premium,,,77,16,12,,,
 43547ae2-f4e1-4c65-9c41-0cfd52630df4,Jews.kitchen,available,83.98,,50,12,4,namecheap,,
 4356cbcc-917a-4a58-9055-e0508a58246d,successively.kitchen,available,14.99,,56,0,12,name.com,,
 4363bda0-2d45-48d5-93b9-45b491ddc546,wafers.kitchen,available,14.99,,54,4,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56780249-8925-4664-a3ea-cd33e214c516,overrated.kitchen,available,14.99,,60,6,10,name.com,,
 56ad3174-e5c9-44fd-a00d-c7d79770588f,continues.kitchen,available,14.99,,48,3,9,name.com,,
 5725bdd9-467d-4aec-a67a-35fb46894e94,treatof.kitchen,available,14.99,,72,1,8,name.com,,
-5731a3e6-a66f-4e24-96a9-e7f5b7f8ce66,estatetrustee.kitchen,available,14.99,,42,2,14,name.com,,
