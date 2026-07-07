@@ -1,10 +1,10 @@
-# Available .KITCHEN One-Word Domains (12,126)
+# Available .KITCHEN One-Word Domains (12,125)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C126%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C125%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .kitchen one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,126 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,125 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,126 domains · **Median ask:** $22.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,125 domains · **Median ask:** $19.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/kitchen`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/kitchen`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .KITCHEN one-word doma
 
 ### Files
 
-- `kitchen.csv` — public CSV extract (1,000 rows)
-- `kitchen.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `kitchen.csv`, public CSV extract (1,000 rows)
+- `kitchen.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| tips.kitchen         | available | $14.99    | —             | 80             | 26     | 4      | name.com         |
-| koala.kitchen        | premium   | —         | —             | 80             | 31     | 5      | —                |
-| finals.kitchen       | available | $14.99    | —             | 80             | 7      | 6      | name.com         |
-| ladies.kitchen       | available | $14.99    | —             | 80             | 17     | 6      | name.com         |
-| geton.kitchen        | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| getup.kitchen        | available | $14.99    | —             | 82             | 15     | 6      | name.com         |
-| matcha.kitchen       | available | $14.99    | —             | 86             | 39     | 6      | name.com         |
-| Apples.kitchen       | available | $83.98    | —             | 90             | 16     | 6      | namecheap        |
-| useit.kitchen        | available | $14.99    | —             | 94             | 7      | 6      | name.com         |
-| makeit.kitchen       | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
-| stirup.kitchen       | available | $14.99    | —             | 82             | 3      | 7      | name.com         |
-| coins.kitchen        | available | $14.99    | —             | 56             | 41     | 5      | name.com         |
-| code.kitchen         | resell    | —         | —             | 72             | 62     | 4      | Porkbun LLC      |
-| Tools.kitchen        | premium   | $560      | $560          | 56             | 40     | 5      | namecheap        |
-| shortcuts.kitchen    | available | $14.99    | —             | 48             | 41     | 10     | name.com         |
-| dads.kitchen         | resell    | —         | —             | 60             | 17     | 4      | NameCheap, Inc.  |
-| photos.kitchen       | premium   | $500      | —             | 54             | 28     | 6      | name.com         |
-| VeniceBeach.kitchen  | resell    | —         | —             | 56             | 7      | 12     | GoDaddy.com, LLC |
-| justin.kitchen       | available | $14.99    | —             | 58             | 38     | 7      | name.com         |
-| organization.kitchen | premium   | —         | —             | 77             | 16     | 12     | —                |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| aaa.kitchen     | available | $14.99    | —             | high           | medium | 3      | name.com                                                           |
+| dog.kitchen     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 32                                                  |
+| book.kitchen    | premium   | $500      | —             | high           | medium | 4      | name.com                                                           |
+| bar.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| soft.kitchen    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
+| candy.kitchen   | premium   | $500      | —             | high           | low    | 5      | name.com                                                           |
+| cod.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| baked.kitchen   | resell    | —         | —             | medium         | low    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| europe.kitchen  | premium   | $23.60    | $23.60        | medium         | low    | 6      | namesilo                                                           |
+| dig.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| craft.kitchen   | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                                                       |
+| contact.kitchen | premium   | $500      | —             | high           | medium | 7      | name.com                                                           |
+| due.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| panda.kitchen   | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                                        |
+| dye.kitchen     | available | $14.99    | —             | medium         | low    | 3      | name.com                                                           |
+| seeds.kitchen   | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC                                                   |
+| feb.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| space.kitchen   | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                                   |
+| gal.kitchen     | available | $14.99    | —             | medium         | low    | 3      | name.com                                                           |
+| gaming.kitchen  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,126 live domains                        |
+| 1,000-row public sample | 12,125 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .kitchen extension, which makes the selection unusually specific. The set includes direct dictionary-style words and broad consumer terms such as tips.kitchen, girls.kitchen, ladies.kitchen, jewels.kitchen, and WiFi.kitchen. For founders, the main question is whether the word is memorable, easy to say, and naturally fits a food, cooking, appliance, recipe, or kitchen-adjacent brand. For investors, the key test is whether the word has clear commercial meaning inside this extension and whether the ask leaves room versus likely resale demand. Median ask in this selection is $22.98, so pricing appears accessible, but fit and trademark risk still matter.
+This list gathers 12,125 single-word .kitchen domain names, spanning cooking, lifestyle, and everyday-phrase styles such as dogsit.kitchen, mealsonwheels.kitchen, and girls.kitchen. Median asking price sits near $19, making the set approachable for quick brand tests or bulk comparison. Names range from literal kitchen terms to catchy, phrase-like combinations, giving founders and investors a wide pool to filter by tone, length, and pricing.
 
-- Prefer words that match kitchen, food, cooking, or home use cases
-- Check whether the word feels natural before .kitchen
-- Use pricing discipline: median ask is $22.98
-- Avoid terms with obvious trademark or brand conflict risk
+- 12,125 one-word .kitchen domains in this list, updated daily
+- Median asking price near $19 across the set
+- Food- and lifestyle-themed names like dogsit.kitchen, girls.kitchen
+- Good fit for low-cost brand testing or bulk comparison
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KITCHEN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KITCHEN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
