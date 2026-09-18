@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kitchen one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,492 domains · **Median ask:** $13.11 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/kitchen`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| here.kitchen    | available | —         | —             | high           | low    | 4      | —                                                                  |
-| soft.kitchen    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
 | aaa.kitchen     | available | $14.99    | —             | high           | medium | 3      | name.com                                                           |
 | natural.kitchen | resell    | $14.99    | —             | medium         | low    | 7      | Sav.com, LLC                                                       |
 | book.kitchen    | premium   | $500      | —             | high           | medium | 4      | name.com                                                           |
@@ -73,6 +71,7 @@ print(df.head())
 | dog.kitchen     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 32                                                  |
 | candy.kitchen   | premium   | $500      | —             | high           | low    | 5      | name.com                                                           |
 | azo.kitchen     | available | $8.98     | $83.98        | low            | low    | 3      | namecheap                                                          |
+| soft.kitchen    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
 | europe.kitchen  | premium   | $23.60    | $23.60        | medium         | low    | 6      | namesilo                                                           |
 | bar.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
 | baked.kitchen   | resell    | —         | —             | medium         | low    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
@@ -84,6 +83,7 @@ print(df.head())
 | due.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
 | seeds.kitchen   | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC                                                   |
 | dye.kitchen     | available | $14.99    | —             | medium         | low    | 3      | name.com                                                           |
+| space.kitchen   | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KITCHEN One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KITCHEN One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
