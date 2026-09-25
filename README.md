@@ -1,10 +1,10 @@
-# Available .KITCHEN One-Word Domains (31,022)
+# Available .KITCHEN One-Word Domains (32,008)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C022%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C008%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .kitchen one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,022 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,008 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,022 domains · **Median ask:** $12.31 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 32,008 domains · **Median ask:** $12.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/kitchen`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| steady.kitchen  | available | $14.99    | —             | high           | low    | 6      | name.com         |
-| smooth.kitchen  | available | $14.99    | —             | high           | low    | 6      | name.com         |
-| there.kitchen   | available | $14.99    | —             | high           | low    | 5      | name.com         |
-| know.kitchen    | available | $14.99    | —             | high           | low    | 4      | name.com         |
-| try.kitchen     | available | $14.99    | —             | high           | medium | 3      | name.com         |
-| aaa.kitchen     | available | $14.99    | —             | medium         | medium | 3      | name.com         |
-| natural.kitchen | resell    | $14.99    | —             | medium         | low    | 7      | Sav.com, LLC     |
+| aaa.kitchen     | available | $14.99    | —             | high           | medium | 3      | name.com         |
+| natural.kitchen | resell    | $14.99    | —             | high           | low    | 7      | Sav.com, LLC     |
 | book.kitchen    | premium   | $500      | —             | high           | medium | 4      | name.com         |
-| aft.kitchen     | available | $8.98     | $83.98        | low            | low    | 3      | namecheap        |
-| fast.kitchen    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
-| candy.kitchen   | premium   | $512      | $512          | medium         | low    | 5      | namesilo         |
-| azo.kitchen     | available | $8.98     | $83.98        | low            | low    | 3      | namecheap        |
-| soft.kitchen    | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
-| europe.kitchen  | premium   | $23.60    | $23.60        | medium         | low    | 6      | namesilo         |
-| bar.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| aft.kitchen     | available | $8.98     | $83.98        | high           | low    | 3      | namecheap        |
+| usa.kitchen     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| life.kitchen    | premium   | $520      | $520          | high           | medium | 4      | namecheap        |
+| azo.kitchen     | available | $8.98     | $83.98        | high           | low    | 3      | namecheap        |
 | panda.kitchen   | resell    | —         | —             | high           | medium | 5      | Porkbun LLC      |
+| europe.kitchen  | premium   | $23.60    | $23.60        | high           | low    | 6      | namesilo         |
+| bar.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| seeds.kitchen   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | contact.kitchen | premium   | $500      | —             | high           | medium | 7      | name.com         |
-| cod.kitchen     | available | $10.99    | $64.99        | low            | low    | 3      | namesilo         |
-| seeds.kitchen   | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC |
-| dig.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| bus.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| gaming.kitchen  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| cricket.kitchen | premium   | $500      | —             | high           | low    | 7      | name.com         |
+| cnn.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| die.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| diy.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| dye.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| ear.kitchen     | available | $14.99    | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,022 live domains                        |
+| 1,000-row public sample | 32,008 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KITCHEN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KITCHEN One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
