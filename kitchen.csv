@@ -5,6 +5,7 @@ b3dc149a-377f-40f7-8cc3-74b40b68ad41,snoek.kitchen,available,10.99,64.99,medium,
 ccd09cd1-0966-445f-8b59-6c7a61dc855a,abruptly.kitchen,available,14.99,84.99,medium,low,8,name.com,,,13/08/2026 19:17
 6d77ccfd-77ba-4aa3-81c9-466eea9da5df,june.kitchen,available,14.99,,high,low,4,name.com,,,
 a1308f99-f5f7-4958-bf89-a308e742a76c,switched.kitchen,available,10.99,64.99,medium,low,8,namesilo,,,27/09/2026 09:43
+4cece227-e6f7-4bf2-b4fc-d4fbb7eb05ed,livingstone.kitchen,available,7.96,51.95,high,low,11,spaceship,,,28/09/2026 04:32
 b4c34fb0-5a49-46e0-b735-bc5d7996d8ad,ballpark.kitchen,available,10.99,64.99,high,low,8,namesilo,,,19/09/2026 22:25
 9fbab57e-2a5a-43b9-af89-f2d72017790b,vial.kitchen,available,8.98,83.98,high,low,4,namecheap,,,18/09/2026 23:48
 efdeab47-0cc2-45cd-9a03-b381d285e827,turbulent.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,14/08/2026 12:26
@@ -72,6 +73,7 @@ acc0fec1-dbbe-446b-9b15-9b081b216186,nuclear.kitchen,available,10.99,64.99,high,
 07ded42e-3513-4761-a4c0-9c23f5c5440b,freaky.kitchen,available,8.98,83.98,high,low,6,namecheap,,,10/08/2026 10:01
 96069cbf-cb25-4ad4-a443-b705aaf319ec,illusion.kitchen,available,8.98,83.98,high,low,8,namecheap,,,24/09/2026 16:35
 31e59eba-c796-4c16-a30b-b1a0de780a75,unclutter.kitchen,available,8.98,83.98,high,low,9,namecheap,,,12/08/2026 10:28
+924d4cf4-414a-4f5c-82ca-69b8af59b1a3,plea.kitchen,available,7.96,51.95,high,low,4,spaceship,,,28/09/2026 06:36
 9bded42b-3cc1-48b9-bbf0-8e1df91ca30d,themselves.kitchen,available,10.99,64.99,medium,low,10,namesilo,,,25/09/2026 16:52
 b7ead0a8-0620-4585-b7f1-c399b2ab1973,motored.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,25/08/2026 08:30
 62b9b00f-3480-492e-89b6-17d2a3c50a57,unsocial.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,12/09/2026 20:11
@@ -88,6 +90,7 @@ f302747a-43ba-471e-913e-49fb2205b1e0,mercenary.kitchen,available,8.98,83.98,high
 76754ce5-0fe1-4f21-8f6a-7670705b7d57,documents.kitchen,available,14.99,,high,low,9,name.com,,,
 24db2c02-186d-44dd-aade-0ed175350724,nosed.kitchen,available,8.98,83.98,medium,low,5,namecheap,,,03/09/2026 21:45
 f9b74c6c-7f2a-4e79-a9f3-87a64791cab4,algometric.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,
+873474f8-7c39-4deb-b5d7-3bda73d37115,convenience.kitchen,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 07:18
 1d7cdad3-fb48-495a-b691-63024e8e1c03,athene.kitchen,available,8.98,83.98,high,low,6,namecheap,,,20/09/2026 20:37
 379fe2d8-54df-4d17-b2a4-ee46d1bdfb02,drizzly.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,14/08/2026 19:32
 b2e8d917-0de9-440a-968e-78c9d045f6d8,contrast.kitchen,available,14.99,,high,low,8,name.com,,,
@@ -98,9 +101,11 @@ b2e8d917-0de9-440a-968e-78c9d045f6d8,contrast.kitchen,available,14.99,,high,low,
 b8a42bc8-536b-45b9-acc8-51aa72647a57,rumination.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,03/09/2026 11:31
 7c904407-05f6-466a-961b-07ba00492759,simpson.kitchen,available,14.99,,high,low,7,name.com,,,
 f7929cc2-ca43-4524-a22b-5666167c37e2,rove.kitchen,available,8.98,83.98,high,low,4,namecheap,,,10/09/2026 22:12
+83729102-a654-47bb-bbb3-85e661a5b9fd,enforcement.kitchen,available,50.2,50.2,medium,low,11,cloudflare,,,28/09/2026 08:21
 8eeb6321-ff98-4bcc-becc-660501f3556e,acores.kitchen,available,10.99,64.99,high,low,6,namesilo,,,17/09/2026 02:16
 8c331885-f78a-4a6d-85b7-e4be7af8c5f7,bracelet.kitchen,available,10.99,64.99,high,low,8,namesilo,,,22/09/2026 01:56
 d85563fd-f558-4506-9811-370e02d00e4a,somali.kitchen,available,8.98,83.98,high,low,6,namecheap,,,10/09/2026 13:58
+31d9949b-38eb-424f-a923-dda0bfa537cf,nikki.kitchen,available,8.98,83.98,high,low,5,namecheap,,,28/09/2026 07:47
 6ab4bbdc-da13-4812-be82-ac7836643d86,xeric.kitchen,available,8.98,83.98,medium,low,5,namecheap,,,13/09/2026 14:07
 27e60187-bd83-4b87-9690-ec831c565fb7,obscure.kitchen,available,8.98,83.98,high,low,7,namecheap,,,05/08/2026 21:59
 2afc7d51-dfd4-461c-9532-c85e98874575,aol.kitchen,available,,,high,high,3,,,,
@@ -111,6 +116,7 @@ e8cf0308-4dcd-47ed-b76a-6625fb3c9346,grasp.kitchen,available,10.99,64.99,high,lo
 5b2643e1-0786-4033-95dd-0e95d88e28e4,saccade.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,22/08/2026 12:47
 00be6f2a-abfb-48d1-a410-7db9afcd1d48,celery.kitchen,available,10.99,64.99,high,low,6,namesilo,,,19/09/2026 17:33
 8e8895b1-a74a-4907-bab4-cc9fef6390b7,rehearsal.kitchen,available,10.99,64.99,high,low,9,namesilo,,,27/09/2026 03:47
+39370e03-6d67-4da0-985a-4bb671d15c60,gabriel.kitchen,available,50.2,50.2,high,medium,7,cloudflare,,,28/09/2026 05:49
 a9f939c7-f73b-4b88-9d55-8c49704f0742,skateboarding.kitchen,available,14.99,,medium,low,13,name.com,,,
 276efa5b-0166-4713-aa1c-bd35910ea2c9,backed.kitchen,available,8.98,83.98,high,low,6,namecheap,,,08/08/2026 05:33
 0115a87c-3dc7-483c-9036-5f4a5d5b2ef1,formalize.kitchen,available,14.99,,high,low,9,name.com,,,
@@ -119,6 +125,7 @@ b7aa9cf2-0600-4ccb-a5fc-3c9f9a8b0d73,giza.kitchen,available,14.99,,high,low,4,na
 b6faf1e4-7d8f-4997-b953-4aae3c3156d7,hotel.kitchen,available,14.99,,high,medium,5,name.com,,,
 53033869-c546-4bd5-ada7-04e4d8002295,periodic.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,08/09/2026 17:11
 d3fad84a-6a66-4be7-ab18-238078f51896,tension.kitchen,available,10.99,64.99,high,low,7,namesilo,,,27/09/2026 14:38
+fea559ad-0dd5-4fea-bb03-ffc889faf4fb,operational.kitchen,available,8.24,53.72,high,low,11,dynadot,,,28/09/2026 07:11
 eaccca09-eff3-4b7d-a22d-5abd3ea61ff5,adrenal.kitchen,available,8.98,83.98,high,low,7,namecheap,,,
 e6a8e6cc-f9b3-4086-84b3-eb06bf6fb12f,louvered.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,24/08/2026 10:04
 e7db4f54-08ba-472a-bcf6-ff655569b01b,hawk.kitchen,available,14.99,111.99,high,low,4,godaddy,,,28/09/2026 02:04
@@ -161,6 +168,7 @@ ca51047d-b8bb-44fc-a0e7-47df08b1c90c,miao.kitchen,available,8.98,83.98,high,low,
 ab56d566-8a06-42b0-aa62-87743d093853,pesky.kitchen,available,,,medium,low,5,,,,
 dfc01d41-c520-49fe-bd87-157844a76af1,binnacle.kitchen,available,10.99,64.99,medium,low,8,namesilo,,,23/09/2026 17:36
 a53cf291-4f7d-49e9-aeac-7fbbd9e5b089,legibly.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,14/09/2026 11:06
+b77ffe02-9b4a-4598-85a0-ee0677339249,porn.kitchen,premium,414.2,414.2,high,medium,4,spaceship,,,28/09/2026 05:37
 32912e5f-1206-4918-b756-7c86f6d62c5c,pirate.kitchen,available,14.99,,high,low,6,name.com,,,
 d0fb435e-487c-40ba-9e55-722ad0fbe996,numb.kitchen,available,8.98,83.98,medium,low,4,namecheap,,,22/09/2026 19:39
 53fe1664-d8ac-41d5-baca-58c8150123cd,capped.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,11/08/2026 18:02
@@ -199,6 +207,7 @@ bfc099bf-6f13-48cb-b68c-7b3cdd76d2a5,academia.kitchen,available,8.98,83.98,high,
 7b8595a9-7153-4735-bca8-2245aae8e6a7,motionless.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,25/08/2026 07:28
 38ec68fb-9ab9-4e1d-93df-8839e5a7e6b6,natality.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,23/09/2026 21:04
 6439f9d4-e7b1-460b-953c-97dbe890c494,reports.kitchen,available,10.99,64.99,high,low,7,namesilo,,,18/09/2026 16:26
+9f7e470b-061c-44c9-a461-83e0074902e6,klamath.kitchen,available,10.99,64.99,high,low,7,namesilo,,,28/09/2026 06:07
 056ef33a-f7c7-4558-a22c-6b6066486a41,gutless.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,20/08/2026 21:12
 d931565e-f297-43d0-95b9-bb078bac9101,unequaled.kitchen,available,8.98,83.98,high,low,9,namecheap,,,12/09/2026 09:09
 152d66ee-29f7-43b7-bf14-ef78f5fb66a8,headlong.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,21/08/2026 01:16
@@ -227,6 +236,7 @@ c5277b5e-d249-42bd-ad04-6d36d1428acc,willowy.kitchen,available,8.98,83.98,high,l
 0ff7cbb1-a6b6-4fb2-a960-b54d6ea640c7,prate.kitchen,available,10.99,64.99,medium,low,5,namesilo,,,23/09/2026 23:29
 d39c8ff2-dc31-48b8-b16b-99ade1cfd7db,potatoes.kitchen,available,10.99,64.99,medium,low,8,namesilo,,,27/09/2026 02:12
 b3ddd925-af67-479a-8e39-97e23bf14cfc,shadowed.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,10/09/2026 05:25
+d288fedc-ae76-431c-b91f-89ac51a724ad,owes.kitchen,available,7.96,51.95,high,low,4,spaceship,,,28/09/2026 05:04
 acdbe04e-9790-41b9-b72a-2dada7a20ee0,unproven.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,12/09/2026 17:33
 1207c343-b9cc-44b3-957b-989b6278edc3,fisher.kitchen,available,10.99,64.99,high,low,6,namesilo,,,24/09/2026 00:24
 16e96c80-70cf-4ac1-8cf0-d7c9a2d127c3,atrocious.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,22/09/2026 11:11
@@ -248,6 +258,7 @@ f7825191-acdf-4c5b-8ba2-63f88fa31594,sable.kitchen,available,8.98,83.98,high,low
 9b90ea19-d341-4778-935d-81de268f77d1,ceric.kitchen,available,8.98,83.98,medium,low,5,namecheap,,,12/08/2026 00:39
 b396b52b-e5a2-4df3-a3e3-cbf8676e277a,alimentary.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,
 ee8e4ac3-2691-405c-add5-c39248776976,permissive.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,08/09/2026 17:48
+073d83ab-3731-4227-8779-65c461473264,freiburg.kitchen,available,8.98,83.98,high,low,8,namecheap,,,28/09/2026 03:48
 a73db17a-ce93-4769-9478-446d8fe00f1a,completing.kitchen,available,10.99,64.99,high,low,10,namesilo,,,23/09/2026 17:20
 b6290375-126a-4b62-bd8b-b676aadbbbc1,wobbling.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,13/09/2026 12:52
 d54b6005-e30b-4f0a-ae63-e9a457ea23ea,potentiality.kitchen,available,14.99,,high,low,12,name.com,,,
@@ -312,7 +323,7 @@ fa1c7a08-1003-4b95-9cb9-2e04581d0c42,trackable.kitchen,available,8.98,83.98,high
 19cbed87-e945-4bc8-8b0b-568fcd79f599,sympathy.kitchen,available,14.99,,high,low,8,name.com,,,
 3dc88d58-fde7-4f73-97ea-a887eb82721f,immaterial.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,17/08/2026 19:22
 bf2bca9a-44ff-446a-9bdb-ab5e2eaedc8b,keeps.kitchen,available,8.98,83.98,high,low,5,namecheap,,,25/09/2026 19:06
-7a09c8d8-6660-4bd6-9ce9-d05f25e48dce,begin.kitchen,available,14.99,84.99,high,low,5,name.com,,,23/09/2026 09:05
+7a09c8d8-6660-4bd6-9ce9-d05f25e48dce,begin.kitchen,available,7.96,51.95,high,low,5,spaceship,,,28/09/2026 08:26
 5f4ccddd-5ff7-4e1d-a48a-46208e76077c,curly.kitchen,available,8.98,83.98,high,low,5,namecheap,,,13/08/2026 11:23
 c0e82326-b411-4832-92da-f05cbdc24d9f,clxv.kitchen,available,8.98,83.98,medium,low,4,namecheap,,,
 b8933aed-893f-418f-a092-4ccf0485e330,entry.kitchen,available,8.98,83.98,high,low,5,namecheap,,,08/09/2026 09:43
@@ -322,6 +333,7 @@ b83a9e55-3f4d-4a48-96ca-01142984b73e,ado.kitchen,available,10.99,64.99,high,low,
 c2f2934b-76d7-4d72-864e-6d13a9d6993b,alprazolam.kitchen,available,10.99,64.99,medium,low,10,namesilo,,,18/09/2026 14:08
 1526e108-7069-46ba-a4ce-01db52461023,saman.kitchen,available,8.98,83.98,high,low,5,namecheap,,,18/09/2026 03:12
 f286f1d1-b86b-4809-bb88-f0d68520998c,mantra.kitchen,available,,,high,low,6,,,,
+0f1a9fcc-564c-4285-b284-ba8e1eee95bc,worms.kitchen,available,7.96,51.95,medium,low,5,spaceship,,,28/09/2026 03:50
 ea25bb78-3160-49b7-9053-0d0148e8152e,inexorable.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,
 caf0fdc7-8071-44a7-a23d-88ead2d1af8d,passing.kitchen,available,10.99,64.99,high,low,7,namesilo,,,24/09/2026 14:24
 c814c932-284a-407c-a9ab-28e1ea37e292,fought.kitchen,available,14.99,,medium,low,6,name.com,,,
@@ -384,6 +396,7 @@ df4b26c0-3a30-4398-8dda-af46e48405cf,bilirubin.kitchen,available,10.99,64.99,med
 5f79433d-3060-45f8-a118-4dd77b1f45c2,sotho.kitchen,available,8.98,83.98,medium,low,5,namecheap,,,10/09/2026 14:39
 0c0f591d-f700-4800-9c1a-da28fa0841ec,kashmiri.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,22/08/2026 15:07
 454ebf0e-d3c6-4493-a14b-5de82c09bed4,insidious.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,22/08/2026 07:05
+2528aca5-16fe-483a-9f07-fb552b8c6146,drivers.kitchen,available,8.98,83.98,high,low,7,namecheap,,,28/09/2026 03:43
 54b8f279-c650-4c92-ac8f-777cbcaf6acf,brainwash.kitchen,available,14.99,,high,low,9,name.com,,,
 e70eb960-e9f2-4429-bc70-cd01662489cc,offenses.kitchen,available,10.99,64.99,low,low,8,namesilo,,,20/09/2026 10:35
 a5dbb6a2-7c04-4a4f-8c82-2c7c87e9bea9,unarmed.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,12/09/2026 01:00
@@ -406,6 +419,7 @@ ac6abf80-7c4b-4f01-bb18-b9210fe710be,diazo.kitchen,available,8.98,83.98,medium,l
 9ec6effc-3d55-4d1e-a589-d9a0e5c9cf1c,dampen.kitchen,available,14.99,84.99,medium,low,6,name.com,,,13/08/2026 16:53
 fe5d6a1e-739d-46da-a7c9-c4acbcccb730,whacky.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,06/08/2026 21:32
 90997b70-279b-426c-9ca5-fbe00f0dbac9,actuate.kitchen,available,8.98,83.98,high,low,7,namecheap,,,09/09/2026 03:15
+62767b62-7b70-4269-9aa5-12be7aabc75e,igor.kitchen,available,7.96,51.95,high,low,4,spaceship,,,28/09/2026 03:33
 1a761fdd-4fae-4e76-ac8d-6011724d848b,teensy.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,10/08/2026 08:01
 81427537-cf73-4db0-9a79-29a2fcb79476,ataraxis.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,20/09/2026 19:42
 5d6f33de-b21e-421f-98df-6a68b9ef1eb5,sharply.kitchen,available,10.99,64.99,medium,low,7,namesilo,,,27/09/2026 20:32
@@ -423,6 +437,7 @@ e3ac1b25-f0d7-4949-b1e7-022596681891,lowest.kitchen,available,8.98,83.98,medium,
 b3b043bd-b4fc-49d1-8941-cabd15ba5bd5,niggle.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,23/09/2026 13:17
 8693945c-70ff-4bd9-9f68-9db81e15cecf,ape.kitchen,available,8.98,83.98,high,low,3,namecheap,,,
 012f6e5b-8e29-4cd5-88b4-577f0ace928d,anklets.kitchen,available,10.99,64.99,medium,low,7,namesilo,,,19/09/2026 09:46
+4c0f24e5-65e9-4a53-81bb-3389696914c7,randall.kitchen,available,7.96,51.95,high,low,7,spaceship,,,28/09/2026 04:02
 b689b9c5-8915-45de-9710-364da1b65744,tendency.kitchen,available,8.98,83.98,high,low,8,namecheap,,,22/08/2026 22:11
 971d0932-74fe-4d3f-ba79-2dc77efab248,paramedic.kitchen,available,8.98,83.98,high,low,9,namecheap,,,08/09/2026 00:59
 109660aa-1da5-4fac-aa47-4dcea7b1d264,categoric.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,11/08/2026 21:29
@@ -434,6 +449,7 @@ a7aeb827-e83c-4334-a125-32365b96f016,nazimova.kitchen,available,10.99,64.99,medi
 5c9f3ea6-f3eb-48c5-b62f-105f7a42731a,clxx.kitchen,available,8.98,83.98,medium,low,4,namecheap,,,
 7f555295-e867-4b20-8251-44bb4c82c757,characteristics.kitchen,available,14.99,,medium,low,15,name.com,,,
 b875fe36-33ed-46ae-a4ae-1eea7ca30e42,ocean.kitchen,available,14.99,,high,low,5,name.com,,,
+d6212a64-b428-4b2e-9d6d-d109e66122a0,bryn.kitchen,available,50.2,50.2,medium,low,4,cloudflare,,,28/09/2026 07:45
 a25aa159-78c8-4081-b78d-600fceae09a9,baneful.kitchen,available,8.98,83.98,low,low,7,namecheap,,,08/08/2026 09:44
 0171ea95-5a24-49d4-8a24-bfe3edf8be30,plaguey.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,
 d60ea9da-28e7-4e33-8a9c-29ffcddc7e9a,unfathomed.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,12/09/2026 09:57
@@ -522,6 +538,7 @@ a185e156-908f-433f-a261-3d4c08e66815,squinch.kitchen,available,8.98,83.98,medium
 eb6b77ec-f815-45c5-a8dc-16cfe204b16a,rube.kitchen,available,8.98,83.98,medium,low,4,namecheap,,,21/08/2026 08:03
 3a54735a-192d-4e21-8f11-47ce974b7e80,inelegant.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,22/08/2026 03:44
 79e0956f-6a7d-4f1c-aa53-ab3c3404910c,birdhouse.kitchen,available,14.99,84.99,high,low,9,name.com,,,23/09/2026 20:39
+c0cd48bb-8b64-4b87-8b77-790302360427,ioc.kitchen,available,10.99,64.99,high,low,3,namesilo,,,28/09/2026 07:36
 84f7e8d3-55bd-45d4-b733-7ed8f3024dfe,autodidact.kitchen,available,10.99,64.99,high,low,10,namesilo,,,21/09/2026 06:15
 8489e6fd-4465-48b8-b8fb-071ad6b6a60f,punishing.kitchen,available,8.98,83.98,high,low,9,namecheap,,,06/08/2026 17:10
 919cd52f-b775-4bc2-80a2-0a86681e203c,smelly.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,18/08/2026 02:31
@@ -547,9 +564,10 @@ fd956e57-1bf9-4cb9-9d21-e68525301c63,faggot.kitchen,available,8.98,83.98,medium,
 cbd3d6f1-d951-4779-8aec-2268605c6706,tenderness.kitchen,available,8.98,83.98,high,low,10,namecheap,,,17/09/2026 14:18
 07a4bb63-c7eb-4223-bf3d-0c6af0d1af17,rheumatoid.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,06/08/2026 23:10
 53f13874-c4fb-4cf8-86ed-7bea54fe22bc,defend.kitchen,available,8.98,83.98,high,low,6,namecheap,,,23/09/2026 13:40
-aaa8dab7-ab60-4a37-8b0b-9a6468e1ffb8,expert.kitchen,premium,512,512,high,low,6,namesilo,,,23/09/2026 15:34
+aaa8dab7-ab60-4a37-8b0b-9a6468e1ffb8,expert.kitchen,premium,414.2,414.2,high,low,6,spaceship,,,28/09/2026 06:38
 5e84502b-cabc-44ca-b36b-8680b6fca896,depending.kitchen,available,7.96,51.95,medium,low,9,spaceship,,,27/09/2026 22:26
 65930d3f-8ae8-4cae-ad5d-dbc2b26573f1,amoy.kitchen,available,10.99,64.99,medium,low,4,namesilo,,,18/09/2026 23:05
+b1c1125f-53c5-4785-b5ec-7512e4499279,torpedo.kitchen,available,7.96,51.95,high,low,7,spaceship,,,28/09/2026 05:28
 c99c27c8-48a3-4496-901c-b32e9ad0875d,bouquet.kitchen,available,10.99,64.99,high,low,7,namesilo,,,24/09/2026 07:35
 59c41de2-a211-4155-9014-2a4ca2ea1d34,bathing.kitchen,available,10.99,64.99,high,low,7,namesilo,,,22/09/2026 13:36
 fc0879dc-88f0-489a-bcf9-6210bf96da71,yucky.kitchen,available,8.98,83.98,medium,low,5,namecheap,,,14/08/2026 10:51
@@ -591,6 +609,7 @@ d130fdfb-e93d-4ee1-973f-5228c1327cd3,oversewn.kitchen,available,8.98,83.98,mediu
 27421e34-450a-45b1-a16b-abfd2902bed3,alces.kitchen,available,10.99,64.99,high,low,5,namesilo,,,18/09/2026 03:55
 ee6ed75e-6c78-4f6c-ba5e-a9b864035024,criminals.kitchen,available,10.99,64.99,low,low,9,namesilo,,,27/09/2026 03:03
 90d9c238-5908-4cc2-9df8-e68c79be3266,attentions.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,19/09/2026 21:27
+b086f8cf-dcfd-4451-8f44-ead7afd4f7c0,torre.kitchen,available,10.99,64.99,high,low,5,namesilo,,,28/09/2026 03:40
 9b242309-1734-4a84-a3cc-d741c4d87689,genital.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,18/08/2026 21:40
 7ff6a14e-bb72-4a4d-bab7-e2739fe37766,chapstick.kitchen,available,14.99,,high,low,9,name.com,,,
 ed8f1ee9-f2dd-40d1-9fb5-4d6fed11b729,tierce.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,
@@ -616,6 +635,7 @@ ba758f1d-2604-407a-8322-12220b045895,alkyd.kitchen,available,10.99,64.99,medium,
 2724d99c-1da0-4fa8-8343-c1d1f64aa775,expertise.kitchen,available,14.99,,high,low,9,name.com,,,
 11056777-235e-426d-95dd-450dd196cd79,strikingly.kitchen,available,10.99,64.99,high,low,10,namesilo,,,16/09/2026 07:22
 ecf5ef23-2fc3-4111-8bd0-0a7683ccbb09,dangers.kitchen,available,10.99,64.99,medium,low,7,namesilo,,,18/09/2026 04:42
+7efd4315-5219-4146-847e-5b72e374c1a2,leopard.kitchen,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 06:09
 1ff6aac9-5d60-4ecf-842d-9839ef13bf54,aspirant.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,07/08/2026 05:02
 65537c16-1995-42c8-88f4-d8d2262b3b75,fifties.kitchen,available,10.99,64.99,high,low,7,namesilo,,,16/09/2026 12:10
 df2d8b75-0524-475a-b9e2-60a1edb3930d,exceed.kitchen,available,8.98,83.98,high,low,6,namecheap,,,11/09/2026 17:21
@@ -626,7 +646,7 @@ f316ecac-42d2-45f7-98a7-df457f556bad,silvervine.kitchen,available,10.99,64.99,me
 c26e7acb-4f28-4d9f-840a-ded425b00de1,rome.kitchen,available,10.99,64.99,high,low,4,namesilo,,,25/09/2026 03:56
 497093bb-e774-4a13-a4fb-eca6b49be5af,caparison.kitchen,available,10.99,64.99,medium,low,9,namesilo,,,22/09/2026 05:11
 99ec2deb-c141-4447-9b1c-cc1b2bb483ce,mantled.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,14/08/2026 18:25
-d2d03eab-7aff-4537-b177-a1e2002d1d6d,cooperation.kitchen,available,14.99,,high,low,11,name.com,,,
+d2d03eab-7aff-4537-b177-a1e2002d1d6d,cooperation.kitchen,available,7.96,51.95,high,low,11,spaceship,,,28/09/2026 04:34
 bdd336ca-c463-4ab5-8431-5fd9d9b32d1d,carboxyl.kitchen,available,8.98,83.98,high,low,8,namecheap,,,11/08/2026 18:44
 ee7d0f10-597f-4825-a6fc-e5be4b47399f,dwell.kitchen,available,8.98,83.98,high,low,5,namecheap,,,24/08/2026 07:49
 11779b79-7fac-4e23-a885-e52423565645,natal.kitchen,available,8.98,83.98,medium,low,5,namecheap,,,03/09/2026 13:37
@@ -649,6 +669,7 @@ a60aac91-abf4-433c-884c-d763877a7399,healed.kitchen,available,8.98,83.98,high,lo
 11d1fe97-eb06-4343-8087-41a2533034c9,offering.kitchen,available,8.98,83.98,high,low,8,namecheap,,,25/09/2026 09:37
 f690051c-00f6-41de-ab31-e6220739d7d0,matai.kitchen,available,10.99,64.99,medium,low,5,namesilo,,,24/09/2026 01:23
 4426fed1-fbf8-4256-bc0a-cb43e2007d96,peoria.kitchen,available,10.99,64.99,high,low,6,namesilo,,,27/09/2026 04:58
+ea48f49f-2a2f-4c79-bc93-e20c25aac3d9,mckinney.kitchen,available,8.24,52.01,high,low,8,porkbun,,,28/09/2026 04:20
 2136da8d-b7bf-4857-bba0-001d31aa2309,dozens.kitchen,available,8.98,83.98,high,low,6,namecheap,,,14/09/2026 23:20
 7afb62a1-beea-425a-8f63-f042f089dae3,aboard.kitchen,available,10.99,64.99,medium,low,6,namesilo,,,27/09/2026 02:14
 7f0855da-1b83-4d72-a82f-f0b5d77f17ec,motorsports.kitchen,available,10.99,64.99,high,low,11,namesilo,,,17/09/2026 11:52
@@ -680,6 +701,7 @@ e4767361-99f0-4530-bfeb-321265a9f2bc,tical.kitchen,available,8.98,83.98,medium,l
 1a4e31a3-2551-495d-b6ce-4c0704f69879,barbate.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,08/08/2026 16:10
 d7b538c9-585c-4dd6-9880-238f8e606245,abeyant.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,
 9d1d1fe5-7fbd-4671-ab6c-fd44713b1a45,besieged.kitchen,available,8.98,83.98,low,low,8,namecheap,,,09/08/2026 15:25
+de0f4d1f-d509-4d2f-8a3b-50984e318997,rodney.kitchen,available,10.99,64.99,high,low,6,namesilo,,,28/09/2026 03:52
 301a580a-b850-4189-ab7f-ed68f98ceae7,imposter.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,09/09/2026 04:57
 7d611d40-9279-408e-b18a-6665d869739f,completely.kitchen,available,10.99,64.99,high,low,10,namesilo,,,22/09/2026 00:16
 36c1caa9-e5de-43aa-8e5a-64f827153033,regarding.kitchen,available,10.99,64.99,high,low,9,namesilo,,,27/09/2026 06:20
@@ -798,11 +820,12 @@ fad97121-8643-4555-9458-0bb6c249e3db,tantalum.kitchen,available,10.99,64.99,medi
 98232a09-3ed0-445b-afa8-0bd00df1514f,inverted.kitchen,available,8.98,83.98,high,low,8,namecheap,,,
 2454a370-1353-49e0-9b27-891099810976,depictive.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,14/08/2026 00:41
 c5deac40-f473-40f8-86bd-277d1ef00c59,fairness.kitchen,available,10.99,64.99,high,low,8,namesilo,,,22/09/2026 22:20
-cf350497-9d4d-4354-a74d-d633465461b2,redevelopment.kitchen,available,10.99,64.99,high,low,13,namesilo,,,20/09/2026 23:43
+cf350497-9d4d-4354-a74d-d633465461b2,redevelopment.kitchen,available,7.96,51.95,high,low,13,spaceship,,,28/09/2026 05:35
 d9feaddd-0273-4c4d-988e-b4e4547a5762,elevator.kitchen,available,10.99,64.99,high,low,8,namesilo,,,25/09/2026 05:22
 a21eaaa3-66b6-4e15-a75f-9c9f7c89205c,contrabass.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,12/08/2026 23:28
-4fa0894a-8d21-4cc8-ad33-28f789b1a956,vast.kitchen,available,10.99,64.99,high,low,4,namesilo,,,23/09/2026 09:06
+4fa0894a-8d21-4cc8-ad33-28f789b1a956,vast.kitchen,available,8.24,53.72,high,low,4,dynadot,,,28/09/2026 08:28
 99dca30f-6051-48b1-b19b-238d51ccff83,scented.kitchen,available,10.99,64.99,high,low,7,namesilo,,,27/09/2026 03:39
+165861c9-c559-4b58-bdd6-28b8b26e14b7,courts.kitchen,available,50.2,50.2,high,low,6,cloudflare,,,28/09/2026 03:42
 45482474-3918-44f5-adb3-9ff23d53e9c6,uniquely.kitchen,available,10.99,64.99,high,low,8,namesilo,,,16/09/2026 10:06
 10f2bbc9-4024-4313-b89b-a5d4393b6707,happened.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,25/09/2026 20:05
 877f0a82-a67e-4e33-a079-94a0b6d2b57d,fearlessly.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,14/09/2026 10:44
@@ -854,6 +877,7 @@ ac3f389e-1151-4ee1-aa6b-af6b7640a874,butt.kitchen,available,8.98,83.98,medium,lo
 126487ff-83d7-429a-a4dc-df2560bdd7cc,bitters.kitchen,available,8.98,83.98,high,low,7,namecheap,,,23/09/2026 23:09
 53de7cd8-5ffc-48c9-93bb-11b19a601d2e,alertly.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,13/09/2026 18:40
 39dc6467-4f44-4208-aff9-5a63ea5ccb32,abidjan.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,16/09/2026 15:38
+154bf013-a790-4b09-9b29-b6278b333bc1,survivors.kitchen,available,10.5,,medium,low,9,unstoppable,,,28/09/2026 05:06
 5015827d-a38a-4ef3-9c99-a6282449e9b5,inherent.kitchen,available,8.98,83.98,high,low,8,namecheap,,,23/09/2026 10:30
 6508338d-7856-4881-aa8a-90076ea7f62c,anthill.kitchen,available,8.98,83.98,high,low,7,namecheap,,,19/09/2026 13:26
 18e84637-fc91-4af6-a28d-a10d6887840a,washer.kitchen,available,10.99,64.99,medium,low,6,namesilo,,,21/09/2026 06:54
@@ -868,6 +892,7 @@ ef7317e2-d81c-4f0a-989b-83720eb81716,pukka.kitchen,available,8.98,83.98,medium,l
 2067771b-e26c-4fd4-848b-66a2d37240da,ariled.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,06/08/2026 19:09
 e0c127de-474c-4b76-a65c-b45ce3840efa,shareholders.kitchen,available,10.99,64.99,medium,low,12,namesilo,,,17/09/2026 15:53
 5f32292d-6ead-4ab2-b211-962c4c6e4f2f,detroit.kitchen,available,14.99,,high,low,7,name.com,,,
+20c62b31-24ed-4ab8-abf1-10eb162c0f76,pier.kitchen,available,50.2,50.2,high,low,4,cloudflare,,,28/09/2026 06:35
 c17032eb-0adc-426e-9ef2-d77ab81bdb30,annex.kitchen,available,14.99,,high,low,5,name.com,,,
 9754057f-91f6-4337-abec-f594482d7245,gregory.kitchen,available,8.98,83.98,high,low,7,namecheap,,,19/09/2026 06:00
 32fdae78-9bfb-4851-b816-41038393b2be,qualification.kitchen,available,14.99,,high,low,13,name.com,,,
@@ -930,6 +955,7 @@ af37edb9-676d-4046-a922-ffec134d0f89,modifiable.kitchen,available,8.98,83.98,hig
 1d9de024-5a6a-4eb1-808b-e39a36bbaec6,playdate.kitchen,available,14.99,,high,low,9,name.com,,,
 0d23dcd3-67f1-4b70-b61f-747c4c71779e,screwing.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,18/08/2026 17:28
 67b16d87-8841-41b5-9423-a36593f0522a,worrisome.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,14/08/2026 13:21
+53bbf593-2e9c-494a-9fd7-c34ab2a67f9d,kissed.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,28/09/2026 04:54
 e2180170-d4e8-4615-b889-83a580e4bc9f,romp.kitchen,available,8.98,83.98,high,low,4,namecheap,,,09/09/2026 19:26
 76d81ea4-7f6d-4626-9fd9-eabf1b44fc9a,brackish.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,11/08/2026 00:43
 dbecb813-8c0c-4ab0-8cb1-a14c6755caf8,syndicate.kitchen,available,14.99,84.99,high,low,9,name.com,,,24/09/2026 17:30
@@ -973,29 +999,3 @@ a110ffb6-4b0a-4ea1-8d7e-3841ea92843d,diplomacy.kitchen,available,14.99,,high,low
 d1919974-9359-4b81-9e5d-1fb3a136cbd5,corky.kitchen,available,8.98,83.98,high,low,5,namecheap,,,13/08/2026 01:23
 1da3a1cb-9192-48ae-92d8-1eea0e2e2c1d,permit.kitchen,available,10.99,64.99,high,low,6,namesilo,,,24/09/2026 18:39
 367c0348-be2a-4f61-8ccb-703806c0aa71,plugin.kitchen,available,10.99,64.99,high,low,7,namesilo,,,17/09/2026 06:36
-fe47dea7-6f95-46ec-b199-01717a6672cc,pith.kitchen,available,8.98,83.98,high,low,4,namecheap,,,14/09/2026 23:55
-7fd2e41d-3bca-4966-abdf-a4f455d9b342,fields.kitchen,available,10.99,64.99,high,low,6,namesilo,,,25/09/2026 22:46
-8a9fac67-f2a8-4a77-bd61-dd3af5d3f35e,deserved.kitchen,available,8.98,83.98,high,low,8,namecheap,,,14/08/2026 03:27
-3fb8b282-2b3e-41f7-9d86-7bfa06f95f5f,identifier.kitchen,available,14.99,,high,low,10,name.com,,,
-ecabb315-66b0-4aaf-af42-df2759b7e162,bilocation.kitchen,available,10.99,64.99,medium,low,10,namesilo,,,23/09/2026 16:51
-65154a99-9759-4ccd-8e3a-ed3478822779,ancient.kitchen,available,10.99,64.99,high,low,7,namesilo,,,22/09/2026 04:21
-1919d1e7-69ba-41dc-b494-ba7b208a89b7,dissolving.kitchen,available,10.99,64.99,high,low,10,namesilo,,,24/09/2026 23:08
-882d870d-14d9-411f-8573-6348051a71ea,focal.kitchen,available,8.98,83.98,high,low,5,namecheap,,,18/08/2026 09:44
-3763a34b-cb4e-454b-84b6-8096adb1bdde,willingly.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,16/09/2026 11:08
-f770a36e-4a75-4292-8613-3e030beddb72,dispersed.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,14/08/2026 11:56
-1670beea-056a-44c7-aa24-b414f8c5527b,detain.kitchen,available,8.98,83.98,high,low,6,namecheap,,,24/09/2026 21:28
-b43929d9-080a-43cf-8760-6f07e32a9f2d,senses.kitchen,available,14.99,,high,low,6,name.com,,,
-fcb0fa00-f35d-438c-b6df-ca1532334498,visible.kitchen,available,10.99,64.99,high,low,7,namesilo,,,27/09/2026 19:29
-c6679d52-12f9-4618-8881-0dcf00c0c875,avogadro.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,18/09/2026 17:51
-27fa6c36-fe65-4095-be5a-1c201668c592,binghamton.kitchen,available,10.99,64.99,medium,low,10,namesilo,,,23/09/2026 17:34
-127958cf-78c8-4284-8bf6-101ca3d2e784,supermarket.kitchen,available,14.99,,high,low,11,name.com,,,
-20395172-47db-4617-adec-a1863c4b8bc6,protrude.kitchen,available,8.98,83.98,high,low,8,namecheap,,,08/09/2026 23:44
-5596e856-aaba-41a4-bb47-c3e3503980da,cleanup.kitchen,available,8.98,83.98,high,low,7,namecheap,,,12/08/2026 10:26
-00eaeb74-fc18-4188-bdc5-22001a5bfe4a,postmark.kitchen,available,8.98,83.98,high,low,8,namecheap,,,18/08/2026 14:12
-11874447-377f-4af6-b271-8a178f53325b,mortimer.kitchen,available,10.99,64.99,medium,low,8,namesilo,,,25/09/2026 23:45
-a4e2e8a7-5987-4030-b300-89dedbcfa709,disastrous.kitchen,available,8.98,83.98,medium,low,10,namecheap,,,11/08/2026 13:30
-fa68e27e-101c-4fc7-a734-bb95e990572a,untaped.kitchen,available,8.98,83.98,medium,low,7,namecheap,,,12/09/2026 10:16
-010579ac-13e3-4702-9c37-ecfeaccfa604,utopian.kitchen,available,8.98,83.98,high,low,7,namecheap,,,13/09/2026 00:12
-923b331c-0151-4387-a79d-17237dda2f8f,chlorine.kitchen,available,8.98,83.98,high,low,8,namecheap,,,12/08/2026 09:10
-269be503-8631-4eed-8493-226dd872dcf1,enwrapped.kitchen,available,8.98,83.98,medium,low,9,namecheap,,,
-7bc30e5f-b7e8-461e-b3b7-5a813d3a9ecb,segovia.kitchen,available,10.99,64.99,medium,low,7,namesilo,,,19/09/2026 04:41
